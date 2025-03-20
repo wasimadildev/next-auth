@@ -35,7 +35,7 @@ Before you begin, ensure you have the following installed:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/next-auth.git
+   git clone https://github.com/wasimadildev/next-auth.git
    cd next-auth
    ```
 
@@ -135,8 +135,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
-Project Link: [https://github.com/yourusername/next-auth](https://github.com/yourusername/next-auth)
+Your Name - [@wasimadildev](https://twitter.com/wasimadildev)
+Project Link: [https://github.com/wasimadildev/next-auth](https://github.com/wasimadildev/next-auth)
 
 ## 🙏 Acknowledgments
 
